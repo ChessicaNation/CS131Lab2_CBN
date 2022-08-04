@@ -1,6 +1,9 @@
 /**
- * Driver to exercise the use of 
- * multiple Wizard objects.
+ * Driver to test all of the
+ * methods from the Wizard class
+ * and the Lockable interface 
+ * that can be used on a 
+ * wizard for a D&D type game.
  * @author chessicanation
  * @version 1.0
  * Lab 2
@@ -9,14 +12,6 @@
  */
 public class Application {
 
-	/**
-	 * This main method tests all of the
-	 * methods from the Wizard class
-	 * and the Lockable interface 
-	 * that can be used on a 
-	 * wizard for a D&D type game.
-	 * @param args
-	 */
 	public static void main(String[] args) {
 
 		//creating wizard with empty argument constructor
